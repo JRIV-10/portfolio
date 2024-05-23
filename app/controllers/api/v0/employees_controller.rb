@@ -1,5 +1,5 @@
 class Api::V0::EmployeesController < ApplicationController
-  def index 
+  def show 
     
   end
 end
